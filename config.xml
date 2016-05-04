@@ -7,10 +7,10 @@
 	  
   <!-- versionCode is optional and Android only -->
   
-  <name>DIA DE LA TIERRA</name>
+  <name>5 de mayo</name>
   
   <description>
-      Apliccion que muestra los datos del dia de la tierra
+      Apliccion que muestra los datos de la batalla del 5 de mayo
   </description>
 
   <preferent name="phonegap-version" value="3.1.0" /> 
